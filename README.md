@@ -35,7 +35,6 @@ Employee-Profile-CRUD/
     - services/
       - employee.service.js
     - uploads/ # Stores profile images & resumes
-    - app.js
     - server.js
 
   - employee-profile/
