@@ -76,7 +76,9 @@ cd Employee-Profile-CRUD
 2. Start the Backend
 
 cd backend
+
 npm install
+
 node server.js
 
 Make sure MongoDB is running on mongodb+srv://mohitdexterdigi007:mohitdd007@employee-crud.a2hplvl.mongodb.net/
@@ -84,7 +86,9 @@ Make sure MongoDB is running on mongodb+srv://mohitdexterdigi007:mohitdd007@empl
 3. Start the Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 App runs at: http://localhost:3000
