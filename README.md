@@ -67,12 +67,13 @@ Employee-Profile-CRUD/
 
 ## 🛠 How to Run the Project
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 git clone https://github.com/mohit-dexterdigi/Employee-Profile-CRUD-App.git
+
 cd Employee-Profile-CRUD
 
-###2. Start the Backend
+2. Start the Backend
 
 cd backend
 npm install
@@ -80,7 +81,7 @@ node server.js
 
 Make sure MongoDB is running on mongodb+srv://mohitdexterdigi007:mohitdd007@employee-crud.a2hplvl.mongodb.net/
 
-###3. Start the Frontend
+3. Start the Frontend
 
 cd frontend
 npm install
