@@ -81,7 +81,7 @@ npm install
 
 node server.js
 
-Make sure MongoDB is running on mongodb+srv://mohitdexterdigi007:mohitdd007@employee-crud.a2hplvl.mongodb.net/
+Make sure MongoDB is running on mongodb+srv://mohitdexterdigi007:mohitdd007@employee-crud.a2hplvl.mongodb.net/ or connect to your own DB by updating link to existing DB in server.js in the backend.
 
 3. Start the Frontend
 
